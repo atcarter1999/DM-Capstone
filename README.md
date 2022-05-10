@@ -1,9 +1,7 @@
 # DM-Capstone
  DM Capstone Project, Matter (EE 4859/ART 4059)
 
-For our Digital Media Capstone Project, our group decided to create a 2D Unity Metroidvania called Matter.
-This project was a semester long undertaking that our group worked on, creating everything in the game from scratch,
-including all art assets, scripts, level designs, UI, animation, etc.
+The final project created by our group is a 2D action platformer most closely fitting the description of a metroidvania. The game was created in the Unity game engine, with the use of other programs including Aseprite, Autodesk Sketchbook, EarSketch, Adobe Illustrator, and Procreate. The main aspects of the game can be broken into five main components: Art, Animation, Audio, Gameplay, and Level Design.
 
 The game files are included in the DM Capstone folder (DM-Capstone/DM Capstone) and a final Build is located in the Matter Build folder (DM-Capstone/Matter Build)
 
