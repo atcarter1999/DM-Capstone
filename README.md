@@ -5,6 +5,8 @@ For our Digital Media Capstone Project, our group decided to create a 2D Unity M
 This project was a semester long undertaking that our group worked on, creating everything in the game from scratch,
 including all art assets, scripts, level designs, UI, animation, etc.
 
+The game files are included in the DM Capstone folder (DM-Capstone/DM Capstone) and a final Build is located in the Matter Build folder (DM-Capstone/Matter Build)
+
 The group members that contributed and their main contributions are below:
 
 Adam Schwarzenbach (ART 4059) -  animate enemies, composed music, designed more UI
