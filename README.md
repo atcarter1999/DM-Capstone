@@ -13,7 +13,7 @@ Austin Carter (EE 4859) - general UI work/animation implementation/campfires
 
 Madison Manale (ART 4059) - animate player, animate boss, created other tilemap
 
-Robert Boese (EE 4859) -  final level design, pixel art (enemies/environment)
+Robert Boese (EE 4859) -  Level design, pixel art (enemies/environment)
 
 Tristan Evans (EE 4859) - scripting/debugging/finalize enemy AI/sound design
 
