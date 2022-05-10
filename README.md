@@ -9,14 +9,14 @@ The game files are included in the DM Capstone folder (DM-Capstone/DM Capstone) 
 
 The group members that contributed and their main contributions are below:
 
-Adam Schwarzenbach (ART 4059) -  animate enemies, composed music, designed more UI
+-Adam Schwarzenbach (ART 4059) -  animate enemies, composed music, designed more UI
 
-Austin Carter (EE 4859) - general UI work/animation implementation/campfires
+-Austin Carter (EE 4859) - general UI work/animation implementation/campfires
 
-Madison Manale (ART 4059) - animate player, animate boss, created other tilemap
+-Madison Manale (ART 4059) - animate player, animate boss, created other tilemap
 
-Robert Boese (EE 4859) -  Level design, pixel art (enemies/environment)
+-Robert Boese (EE 4859) -  Level design, pixel art (enemies/environment)
 
-Tristan Evans (EE 4859) - scripting/debugging/finalize enemy AI/sound design
+-Tristan Evans (EE 4859) - scripting/debugging/finalize enemy AI/sound design
 
 Note: Everything included in this repository is copyrighted by the members of Group 4 listed above, and is liscenced for free use and distribution, but is not to be used by any business or corporation. This includes all art assets, scripts, level designs, animation controllers, and any other user created files in this repository.
