@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - enemy
+  - Roof
+  - player
+  - projectile
+  - boss
+  - campfire trigger
+  - PauseMenuUI
+  - item
+  - npc trigger
+  - npc bubble
+  - npc text
+  - essenceFill
+  - enemyWall
+  - Fade In
+  - Fade Out
+  - caveFade
+  - forestFade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - wall
+  - enemy
+  - player
+  - background
+  - batBlocker
+  - damageZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
